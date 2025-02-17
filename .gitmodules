@@ -1,7 +1,7 @@
 [submodule "browser-extension"]
 	path = browser-extension
-	url = git@github.com:okrbest/anythingllm-extension.git
+	url = https://github.com/ux-builder/anythingllm-extension.git
 [submodule "embed"]
 	path = embed
-	url = git@github.com:okrbest/anythingllm-embed.git
+	url = https://github.com/ux-builder/anythingllm-embed.git
 	branch = main
